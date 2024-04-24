@@ -1,5 +1,4 @@
 #Showcase Your Dance Moves!
-#And I will with Task 1 and Task 2
 #
 #
 #
@@ -11,14 +10,13 @@ if weather == "sunny":
     print("Wear sunglasses!")
 else:
     print("Take an umbrella!")
-
 #
 #
 #
 #
 #Task 2: Your Mood Today
 
-user_response = input ("How is your mood today?")
+mood = "happy"
 
 if mood == "happy":
     print("That's great to hear!")
